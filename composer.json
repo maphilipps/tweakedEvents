@@ -5,9 +5,9 @@
     "description": "Statamic addon to create & manage events",
     "authors": [
         {
-            "name": "Erin Dalzell",
-            "email": "erin@carkDigital.com",
-            "homepage": "https://carkDigital.com"
+            "name": "Marc Philipps",
+            "email": "hi@carkdigital.de",
+            "homepage": "https://carkdigital.de"
         }
     ],
     "autoload": {
